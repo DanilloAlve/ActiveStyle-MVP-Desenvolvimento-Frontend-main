@@ -24,8 +24,6 @@ Este projeto é um exemplo de como criar uma interface reutilizável, modular e 
 ### **Validação de Formulários**
 - Os formulários de Login e Cadastro validam dados do usuário e exibem mensagens de erro, como verificação de senhas que não coincidem.
 
-### **Estilização Customizada**
-- Estilos aplicados diretamente nos componentes com `CSS-in-JS` e arquivos CSS dedicados.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -33,7 +31,6 @@ Este projeto é um exemplo de como criar uma interface reutilizável, modular e 
 - **React Router DOM**: Gerenciamento de rotas para navegação entre páginas.
 - **Context API**: Para o gerenciamento de estado global.
 - **Fake Store API**: Provedor de dados fictícios para produtos.
-- **Webpack**: Empacotador de módulos para desenvolvimento.
 - **Babel**: Transpiler para compatibilidade de código.
 
 ## ⚙️ Como Executar o Projeto
