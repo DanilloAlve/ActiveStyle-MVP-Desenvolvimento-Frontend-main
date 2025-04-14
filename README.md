@@ -2,10 +2,6 @@
 
 Projeto como requisito para Pós Graduação em Desenvolvimento FullStack PucRio, para Desenvolvimento Front-End Avançado. Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de componentização, gerenciamento de estado e boas práticas de desenvolvimento front-end.
 
-# Prototipação em Figma
-   ```bash
-https://www.figma.com/proto/TqRgqE7StnG6TTt0ggNe7t/esse?node-id=14-8&node-type=canvas&t=0V9CulK2qHn6bQmX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A8
-   ```
 
 ## 💡 Sobre a Aplicação
 A aplicação simula uma loja virtual com funcionalidades básicas como:
@@ -66,5 +62,26 @@ Este projeto é um exemplo de como criar uma interface reutilizável, modular e 
    ```
    http://localhost:3000
    ```
+## ⚙️ Como Executar o Projeto com Docker
 
+Pré-requisitos
+Docker (>= 20.10.0)
+Docker Compose (>= 1.29.0)
 
+6. Passos para execução
+
+```bash
+Clone o repositório:
+https://github.com/DanilloAlve/ActiveStyle-MVP-Desenvolvimento-Frontend-main
+```
+
+7. Construa e inicie os containers: No diretório raiz do projeto, execute:
+
+```bash
+docker-compose up --build
+```
+8. Acesse os serviços:
+
+```bash
+Frontend: http://localhost:3000
+```
