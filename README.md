@@ -59,7 +59,7 @@ Este projeto é um exemplo de como criar uma interface reutilizável, modular e 
    ```
    http://localhost:3000
    ```
-## ⚙️ Como Executar o Projeto com Docker
+## 🐳 Executando com Docker
 
 Pré-requisitos
 Docker (>= 20.10.0)
